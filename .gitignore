@@ -1,0 +1,8 @@
+# beauty-bio-link は index.html だけを管理する専用リポジトリです。
+# 以下は .gitignore では除外しません（index.html は追跡対象）
+
+# macOS
+.DS_Store
+
+# ログ
+*.log
